@@ -71,6 +71,9 @@ What it sets up
 
 It should take less than 15 minutes to install (depends on your machine).
 
+#### To add
+* [Pow](http://pow.cx/) + [powder](https://github.com/rodreegez/powder)
+
 Credits
 -------
 

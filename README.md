@@ -76,6 +76,7 @@ It should take less than 15 minutes to install (depends on your machine).
 * [ngrok](https://ngrok.com/) for expose your dev-local-webserver to the internet and inspect calls
 * [RVM - Ruby Version Manager](https://rvm.io/)
 * [Auto Jump](https://github.com/joelthelion/autojump)
+* [Markdown Quicklook preview](https://github.com/toland/qlmarkdown)
 
 Credits
 -------

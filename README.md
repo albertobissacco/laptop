@@ -77,6 +77,7 @@ It should take less than 15 minutes to install (depends on your machine).
 * [RVM - Ruby Version Manager](https://rvm.io/)
 * [Auto Jump](https://github.com/joelthelion/autojump)
 * [Markdown Quicklook preview](https://github.com/toland/qlmarkdown)
+* [wrk](https://github.com/wg/wrk)
 
 Credits
 -------
